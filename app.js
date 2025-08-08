@@ -9,7 +9,7 @@ function agregarAmigo(){
     }else {
         amigos.push(nombre);
         document.getElementById("amigo").value = "";
-        console.log(amigos)
+        
         actualizarLista(); // Llama a la función para actualizar la lista de amigos
         
     }
