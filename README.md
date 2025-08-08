@@ -1,4 +1,4 @@
-![Caja de regalo con texto que dice amigo secreto y un signo de interrogacion](stock-vector-gift-with-purple-envelope-red-ribbons-and-bow-to-play-secret-friend-written-in-spanish-game-1176947653](https://github.com/user-attachments/assets/690790fd-4452-4ace-b6f3-1fcb63639f6d)
+![Caja de regalo con texto que dice amigo secreto y un signo de interrogacion](assets/amigo-secreto.jpg)
 # Proyecto Amigo Secreto 🎁
 
 Este proyecto es una aplicación web sencilla para organizar un sorteo de amigo secreto entre amigos.
